@@ -13,24 +13,6 @@ Implementación fundamental de un motor de renderizado por trazado de rayos (*Ra
 
 ---
 
-## 🖼️ Resultados Obtenidos
-
-> 💡 **Consejo:** Guarda un renderizado final de tu programa (en formato .png o .jpg) dentro de una carpeta llamada `images` en tu repositorio y enlázala aquí abajo para que se vea directo en GitHub.
-
-| Escena Renderizada | Descripción Técnica |
-| :---: | :--- |
-| <img src="images/render_final.png" width="400"> | Renderizado de una escena tridimensional con múltiples esferas, mostrando cálculo de profundidad, luces y proyección de sombras. |
-
----
-
-## 🛠️ Tecnologías y Herramientas Utilizadas
-
-* **Lenguaje:** [Ej: Python 3.x / C++17]
-* **Librerías Clave:** [Ej: NumPy para álgebra lineal, Pillow/OpenCV para guardar la imagen, o bibliotecas estándar]
-* **Conceptos Aplicados:** Vectores tridimensionales, normalización, álgebra lineal y geometría analítica.
-
----
-
 ## 💻 Instalación y Ejecución
 
 Sigue estos pasos para clonar el repositorio y ejecutar el renderizador en tu máquina local:
